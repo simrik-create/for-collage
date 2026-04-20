@@ -1,0 +1,1 @@
+//write a program to enter data of 10 students (name address faltucity) display the details of those students who belongs to csit falculty 
